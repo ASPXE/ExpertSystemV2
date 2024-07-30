@@ -44,5 +44,12 @@ Es necesario pasar los argumentos al ejecutar el script, use el siguiente ejempl
 ```bash
    python main.py --max_price 20000 --min_year 2015 --engine_type V6 --fuel_type Gasoline
 ```
+
+## Vídeos del funcionamiento
+
+Puede ver el funcionamiento del sistema experto en los siguientes vídeos.
+
+Parte 1: https://youtu.be/4SlOshVV-Pw
+Parte 2: https://youtu.be/6His0IGlT3k
   
    
