@@ -5,7 +5,7 @@ Este sistema experto proporciona recomendaciones de automóviles usados basadas 
 ## Requisitos
 
 - Python 3.7 o superior
-- Bibliotecas de Python: `pandas`, `sqlalchemy`, `pymysql`, `argparse`
+- Bibliotecas de Python: `pandas`, `sqlalchemy`, `pymysql`, `argparse`, `scikit-learn`, `tensorflow`, `keras`
 - MySQL Server
 
 ## Instalación
@@ -13,8 +13,8 @@ Este sistema experto proporciona recomendaciones de automóviles usados basadas 
 1. **Clona el Repositorio**
 
    ```bash
-   git clone https://github.com/ASPXE/ExpertSystem.git
-   cd ExpertSystem
+   git clone https://github.com/ASPXE/ExpertSystemV2.git
+   cd ExpertSystemV2
    ```
 2. **Crea el entorno virtual de Python**
    ```bash
