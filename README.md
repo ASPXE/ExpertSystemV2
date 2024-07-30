@@ -50,6 +50,7 @@ Es necesario pasar los argumentos al ejecutar el script, use el siguiente ejempl
 Puede ver el funcionamiento del sistema experto en los siguientes vídeos.
 
 Parte 1: https://youtu.be/4SlOshVV-Pw
+
 Parte 2: https://youtu.be/6His0IGlT3k
   
    
