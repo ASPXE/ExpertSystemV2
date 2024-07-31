@@ -31,7 +31,18 @@ Este sistema experto proporciona recomendaciones de automóviles usados basadas 
    ```bash
    source venv/bin/activate
    ```
-5. **Configura la Base de Datos**
+5. **Instala las librerías de Python**
+   ```bash
+   pip install pymysql
+   pip install pandas
+   pip install sqlalchemy
+   pip install argparse
+   pip install scikit-learn
+   pip install tensorflow
+   pip install keras
+   ```
+   
+6. **Configura la Base de Datos**
    
   En el siguiente link podrá encontrar la carpeta .zip que contiene el SQL necesario para crear la base de datos e insertar los registros.
   Link: https://drive.google.com/file/d/1YiVuK1DlCDJAHiYOYTFuFu791BWPWdTh/view?usp=drive_link
