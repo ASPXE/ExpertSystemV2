@@ -71,3 +71,5 @@ Parte 2: https://youtu.be/6His0IGlT3k
    Aumentar el número de epochs mejora sustancialmente los resultados de predicción de la red neuronal asi como el número de neuronas en la capa de entrada y las posteriores capas ocultas. Hay que tener en cuenta la capacidad de procesamiento de nuestra computadora ya que el entrenamiento de la red neuronal requiere de mucho poder de cómputo.
 
    La información con la que entrenamos la red neuronal debe de estar "limpia" de datos que no sean relevantes. Uno de los problemas con el que me encontré es que el dataset original tiene un peso de 9.20GB y muchos registros no tienen información en la mayoría de las columnas, y hacer el pre-procesamiento del CSV directamente con pandas no era viable ya que mi computadora no era capaz de funcionar con normalidad mientras se cargaba en CSV a la variables.
+
+   Para finalizar, tuve que leer bastante documentación de como funciona pandas, tensorflow y keras para comprender que era exactamente lo que estába sucediendo en cada línea de código ya que tuve errores en las dimensiones del dataset que pasaba a las funciones para definir las neuronas.
