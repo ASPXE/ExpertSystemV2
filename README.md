@@ -1,6 +1,6 @@
 # Sistema Experto de Recomendación de Automóviles Usados
 
-Este sistema experto proporciona recomendaciones de automóviles usados basadas en varios criterios, como precio, año, tipo de motor y tipo de              combustible. Utiliza una base de datos MySQL para almacenar y consultar datos sobre automóviles usados.
+Este sistema experto proporciona recomendaciones de automóviles usados basadas en varios criterios, como precio, año, tipo de motor y tipo de              combustible. Utiliza una base de datos MySQL para almacenar y consultar datos sobre automóviles usados. Aunado a esto, También predice el precio para corroborar que el precio al que está siendo vendido sea adecuado a las características del vehículo, es decir, que el precio no sea elevado para lo que se ofrece.
 
 ## Requisitos
 
